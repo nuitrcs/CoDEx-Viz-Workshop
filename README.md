@@ -1,7 +1,11 @@
 # CoDEx 2024
 
-**Beyond the Defaults: Elevating Your Data Visualizations**
+**Beyond the Defaults: Elevating Your Data Visualizations** 
+
 Christina Maimone
+
+&nbsp;
+
 
 This repository includes the code to create all of the visualizations shown during the workshop.  You do not need to access it during the workshop.  It is provided for reference.
 
